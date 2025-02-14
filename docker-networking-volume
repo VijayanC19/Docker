@@ -1,0 +1,28 @@
+docker networking
+  #bridge
+  #host
+  #none
+ docker network ls
+ 
+ docker netwotk ls
+ 
+ docker network create name
+ 
+ docker network inspect name
+ 
+ docker network rm network-name
+ 
+ #docker volume
+ *volume
+ 
+ *tmpfs
+ 
+ *bind mount
+ 
+ docker volume create name
+ 
+ docker volume inspect name
+ 
+ docker volume rm name
+ 
+ 
